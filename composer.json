@@ -1,0 +1,9 @@
+{ 
+    "name":"mrozk/test",
+    "require": {
+        "monolog/monolog": "1.2.*",
+        "0k/php-oe-json": "0.0.2"
+    },
+	
+    "version": "1.0.0"
+}
